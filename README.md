@@ -48,3 +48,9 @@ Training
  python main.py --root_path /raid/video_data/ucf101/ --video_path frames --annotation_path ucf101_01.json  --result_path /raid/video_data/output/PreLeKT --n_classes 400 --n_finetune_classes 101 --model resnet --model_depth 18 --resnet_shortcut A --batch_size 128 --n_threads 4 --pretrain_path /nvadmin/Pretrained_model/resnet-18-kinetics.pth --ft_begin_index 4 --dataset ucf101 --isSource --transfer_module --multi_source
 ```
 
+paper download
+--------------
+* Review Paper
+  * ./paper/SSKT_review.pdf
+* Supplementary Materials
+  * ./paper/SSKT_supplement.pdf
