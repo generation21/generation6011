@@ -1,5 +1,9 @@
-PLKT(under review at AAAI2021)
+SSKT(under review at CVPR2021)
 ================================
+
+Concept map
+-----------
+![concept](./img/concept_map.png)
 
 Dataset
 -------
