@@ -50,7 +50,5 @@ Training
 
 paper download
 --------------
-* Review Paper
-  * ./paper/SSKT_review.pdf
 * Supplementary Materials
   * ./paper/SSKT_supplement.pdf
